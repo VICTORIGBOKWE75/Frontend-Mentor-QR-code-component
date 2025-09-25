@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/screenshots/dektop%20screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://victorigbokwe75.github.io/Frontend-Mentor-QR-code-component/)
 
 ## My process
 
@@ -38,8 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - The use of media query to ensure that my projects are compatible with screens of all sizes. 
 
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Name - Victor Igbokwe
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/VICTORIGBOKWE75)
 
 
